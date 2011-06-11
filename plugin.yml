@@ -1,0 +1,7 @@
+name: ExtendedCommandLine
+main: me.regenvanwalbeek.extendedcommandline.ExtendedCommandLine
+version: 0.0.1
+commands:
+  testcommand:
+    description: This command is a test.
+    usage: "hopefully this worked..."
